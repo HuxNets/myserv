@@ -5,7 +5,7 @@
 # Puedes instalar paper después de instalar vanilla desde el menú de gestionar
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
 
-# Regiones de ngrok
+# Regiones de ngroks
 # Código          Lugar
 #-----------      ---------------------------
 # ap	          Asia / Pacífico (Singapore)
